@@ -148,7 +148,7 @@ export default function HomePage() {
               size="lg"
               className="bg-white text-green-600 hover:bg-gray-100 px-6 md:px-8 py-4 md:py-6 text-base md:text-lg"
             >
-              Get Bulk Quote
+              Get Bulk Quote's
             </Button>
             <Button
               variant="outline"
